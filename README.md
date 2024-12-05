@@ -1,4 +1,4 @@
-# Android device tree for samsung SM-A826S (a82xq)
+# TWRP device tree for samsung SM-A826S (a82xq)
 
 ```
 #
