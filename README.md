@@ -1,4 +1,4 @@
-# Android device tree for samsung SM-A826S (a82xq)
+# Android device tree for Samsung Galaxy Quantum2 SM-A826S (a82xq)
 
 ```
 #
