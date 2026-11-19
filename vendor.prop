@@ -1,0 +1,17 @@
+#
+# Copyright (C) 2026 The Android Open Source Project
+# Copyright (C) 2026 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+
+# Crypto
+ro.crypto.metadata_init_delete_all_keys.enabled=false
+ro.crypto.volume.filenames_mode=aes-256-cts
+ro.crypto.allow_encrypt_override=true
+ro.hardware.keystore=mdfpp
+ro.hardware.gatekeeper=mdfpp
+ro.security.keystore.keytype=sakv2,gak
+
+# USB
+vendor.usb.use_ffs_mtp=1
